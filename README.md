@@ -1,3 +1,15 @@
+# HPDC Submission
+
+We have built our speculation strategy upon GPTune open-source framework.
+
+You can find the five synthetic functions employed in the paper under the 'examples/' folder, along with a batch and an async implementation example for the ScaLAPACK application. 
+
+Our code extensions can be mainly found in 'GPTune/gptune.py' and 'GPTune/search.py'. 
+
+
+
+Please find below the original README from GPTune framework:
+---
 <p align="center">
 <img src="GPTune_icon.png" width="200">
 </p>
