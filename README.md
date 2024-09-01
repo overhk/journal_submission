@@ -1,4 +1,4 @@
-# HPDC Submission
+# Manuscript Submission
 
 We have built our speculation strategy upon GPTune open-source framework.
 
